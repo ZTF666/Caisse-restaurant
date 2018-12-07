@@ -1,0 +1,65 @@
+C:\Users\ZTF666\AppData\Local\Temporary Projects\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.exe
+C:\Users\ZTF666\AppData\Local\Temporary Projects\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.pdb
+C:\Users\ZTF666\AppData\Local\Temporary Projects\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.xml
+C:\Users\ZTF666\AppData\Local\Temporary Projects\CaisseEnregistreuse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ZTF666\AppData\Local\Temporary Projects\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Form1.resources
+C:\Users\ZTF666\AppData\Local\Temporary Projects\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Resources.resources
+C:\Users\ZTF666\AppData\Local\Temporary Projects\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.vbproj.GenerateResource.Cache
+C:\Users\ZTF666\AppData\Local\Temporary Projects\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.exe
+C:\Users\ZTF666\AppData\Local\Temporary Projects\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.xml
+C:\Users\ZTF666\AppData\Local\Temporary Projects\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.pdb
+C:\Users\ZTF666\AppData\Local\Temporary Projects\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Sandwiches.resources
+C:\Users\ZTF666\Documents\Visual Studio 2008\Projects\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.exe
+C:\Users\ZTF666\Documents\Visual Studio 2008\Projects\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.xml
+C:\Users\ZTF666\Documents\Visual Studio 2008\Projects\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.pdb
+C:\Users\ZTF666\Documents\Visual Studio 2008\Projects\CaisseEnregistreuse\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.exe
+C:\Users\ZTF666\Documents\Visual Studio 2008\Projects\CaisseEnregistreuse\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.pdb
+C:\Users\ZTF666\Documents\Visual Studio 2008\Projects\CaisseEnregistreuse\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.xml
+C:\Users\ZTF666\Documents\Visual Studio 2008\Projects\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ZTF666\Documents\Visual Studio 2008\Projects\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Resources.resources
+C:\Users\ZTF666\Documents\Visual Studio 2008\Projects\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Sandwiches.resources
+C:\Users\ZTF666\Documents\Visual Studio 2008\Projects\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.vbproj.GenerateResource.Cache
+C:\Users\ZTF666\Documents\Visual Studio 2008\Projects\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.fact.resources
+C:\Users\ZTF666\Documents\Visual Studio 2008\Projects\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Menu.resources
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.exe
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.xml
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.pdb
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.exe
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.pdb
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.xml
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.vbprojResolveAssemblyReference.cache
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.fact.resources
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Resources.resources
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.vbproj.GenerateResource.Cache
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Info.resources
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.exe.config
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Sandwiches.resources
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Menuu.resources
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Plats.resources
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Pizzas.resources
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Saldes.resources
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Specials.resources
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Boissons.resources
+C:\Users\necro\Desktop\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Glaces.resources
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.exe.config
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.exe
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.xml
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.pdb
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.vbprojResolveAssemblyReference.cache
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Boissons.resources
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.fact.resources
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Glaces.resources
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Login.resources
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Menuu.resources
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Info.resources
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Resources.resources
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Pizzas.resources
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Plats.resources
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Saldes.resources
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Sandwiches.resources
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.Specials.resources
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.vbproj.GenerateResource.Cache
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.exe
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.pdb
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\bin\Debug\CaisseEnregistreuse.xml
+C:\Users\necro\Desktop\Projets\MiniProjet\CaisseEnregistreuse\CaisseEnregistreuse\obj\Debug\CaisseEnregistreuse.users.resources
